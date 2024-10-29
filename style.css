@@ -7,15 +7,15 @@ justify-content: ;
 
 
 body{
-    background-color:rgb(209, 101, 110);
+    background-color:rgb(39, 71, 35);
 
-    color:rgba(141, 136, 187, 0.829);
+    color:rgba(44, 28, 189, 0.829);
     
     }
 
 
     section{
-        background-color: darkseagreen;
+        background-color: rgb(124, 111, 172);
 
         margin: 50px;
         display: flex;
