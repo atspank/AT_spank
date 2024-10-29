@@ -14,3 +14,10 @@ body{
     }
 
 
+    section{
+        background-color: darkseagreen;
+
+        margin: 50px;
+        display: flex;
+    
+
