@@ -1,6 +1,16 @@
-body{
-    background-color:aqua;
+header{
+margin: 50px;
+background-color: dodgerblue;
 
-    color:black;
+justify-content: ;
+}
+
+
+body{
+    background-color:rgb(209, 101, 110);
+
+    color:rgba(141, 136, 187, 0.829);
     
     }
+
+
