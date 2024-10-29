@@ -16,5 +16,6 @@ body{
 
         margin: 50px;
         display: flex;
+    border: solid 4 px rgb(red,green,blue)
     
 
