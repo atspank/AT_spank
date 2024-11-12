@@ -2,7 +2,7 @@ header{
 margin: 50px;
 background-color: dodgerblue;
 
-justify-content: ;
+
 }
 
 body{
@@ -15,11 +15,32 @@ body{
         background-color: rgb(249, 248, 253);
 
         margin: 50px;
-        display: flex;
+        
     border: solid 4 px rgb(red,green,blue)
 
 padding 44 px;
+
 border: 4 px;
 
+display: flex;
+
+justify-content: ;
+
     }
+
+. primeira chamada {
+
+margin-right:  5%;
+
+}
+
+. assista mais videos {
+
+display:flex ;
+overflow-x:auto ;
+gap 10 px: ;
+
+}
+
+
 
